@@ -3,7 +3,7 @@
 *.apk
 *.ap_
 
-/EasyServer_mina/
+#/EasyServer_mina/
  
 # Files for the Dalvik VM
 *.dex
